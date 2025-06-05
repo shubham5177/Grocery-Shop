@@ -2,7 +2,7 @@
 
 **Grocery Shop** is a modern and clean landing page for an online grocery store. Designed with simplicity and clarity, this static site offers a user-friendly layout to showcase grocery items, special offers, and store services.
 
-🔗 **Live Website:** [https://shubham5177.github.io/Grocery-Shop/](https://shubham5177.github.io/Grocery-Shop/)
+🔗 **Live Website:** [https://shubham5177.github.io/Grocery-Shop/](https://shubham5177.github.io/Grocery-Shop/)))
 
 ## ✨ Key Features
 
